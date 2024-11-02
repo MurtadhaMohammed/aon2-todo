@@ -7,8 +7,8 @@ function App() {
   return (
     <div>
       <MainHeader />
-      <HomeScreen/>
-      {/* <AboutScreen/> */}
+      {/* <HomeScreen/> */}
+      <AboutScreen/>
     </div>
   );
 }
